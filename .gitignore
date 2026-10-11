@@ -1,0 +1,10 @@
+## kaggle credentials (never commit this file)
+kaggle_token.txt
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/raw/kaggle/*
+data/raw/scraped_corpus.txt
+!data/raw/kaggle/.gitkeep
+.env
